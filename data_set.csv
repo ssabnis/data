@@ -1,0 +1,201 @@
+STATE,CITY,DATE,OBSERVATIONTYPE,TEMPERATURE
+California,Oakland,2003/03/07,TMAX,14
+California,Alhambra,2010/02/10,PRCP,55
+California,San Francisco,2004/12/25,TMAX,72
+California,Irvine,2009/10/12,TMAX,56
+California,Stockton,2007/12/16,TMAX,4
+California,San Francisco,2003/08/22,PRCP,12
+California,Redwood City,2003/04/27,TMIN,99
+California,Irvine,2001/07/05,TMIN,59
+California,Mountain View,2004/02/09,TMAX,2
+California,Sacramento,2004/08/11,TMAX,145
+California,Oceanside,2006/07/23,PRCP,146
+California,Fresno,2006/05/11,TMAX,-10
+California,San Rafael,2001/01/11,TMAX,51
+California,Sacramento,2000/12/30,PRCP,-2
+California,Fresno,2002/06/03,TMIN,77
+California,Glendale,2007/08/04,PRCP,-10
+California,Stockton,2009/05/18,TMIN,54
+California,Sacramento,2001/05/23,TMIN,30
+California,South Lake Tahoe,2009/01/01,TMIN,27
+California,Oakland,2005/08/26,PRCP,21
+California,Anaheim,2003/02/16,TMIN,108
+California,San Diego,2003/10/20,PRCP,97
+California,Pasadena,2004/08/22,TMIN,26
+California,Sacramento,2005/09/02,PRCP,146
+California,San Diego,2007/06/06,TMAX,119
+California,Pomona,2002/06/06,PRCP,88
+California,Mountain View,2009/07/03,TMAX,133
+California,San Diego,2001/03/01,PRCP,119
+California,Fresno,2006/02/22,TMAX,38
+California,San Diego,2009/06/16,PRCP,66
+California,Santa Rosa,2007/06/06,PRCP,58
+California,Torrance,2004/01/02,PRCP,80
+California,Los Angeles,2008/02/01,TMIN,79
+California,Long Beach,2002/01/04,PRCP,115
+California,Los Angeles,2001/02/10,TMIN,-6
+California,North Hollywood,2010/01/07,TMAX,18
+California,San Diego,2006/05/20,PRCP,39
+California,Sacramento,2004/11/23,PRCP,49
+California,Visalia,2005/10/13,TMIN,7
+California,Long Beach,2006/06/23,TMAX,64
+California,Glendale,2007/03/30,PRCP,141
+California,Anaheim,2001/07/27,TMIN,11
+California,San Diego,2001/08/24,TMAX,23
+California,Sacramento,2007/10/23,TMIN,53
+California,Long Beach,2009/03/10,TMAX,40
+California,Alhambra,2009/10/28,TMAX,135
+California,Moreno Valley,2007/08/29,TMIN,18
+California,Orange,2003/10/25,TMAX,4
+California,San Diego,2009/01/10,TMIN,55
+California,San Luis Obispo,2000/10/26,PRCP,79
+California,Torrance,2007/07/09,TMIN,12
+California,San Francisco,2000/09/28,TMIN,90
+California,Salinas,2004/12/27,TMIN,87
+California,San Diego,2007/11/14,TMIN,123
+California,Santa Ana,2001/02/15,TMIN,85
+California,Concord,2003/04/24,PRCP,48
+California,Long Beach,2008/03/22,TMIN,95
+California,Riverside,2007/09/30,PRCP,99
+California,Sacramento,2003/07/03,TMAX,17
+California,Fresno,2000/08/10,TMIN,126
+California,Fresno,2002/04/29,TMIN,-1
+California,San Diego,2007/10/31,PRCP,123
+California,Berkeley,2005/05/07,TMAX,65
+California,Fresno,2006/10/06,TMIN,21
+California,Los Angeles,2004/02/13,TMIN,125
+California,San Diego,2005/07/01,TMAX,142
+California,Pasadena,2002/06/26,TMAX,29
+California,Sacramento,2002/12/11,TMIN,-5
+California,Sacramento,2003/12/14,TMIN,53
+California,Sacramento,2005/01/29,PRCP,148
+California,Sacramento,2002/08/26,PRCP,100
+California,Burbank,2009/04/13,TMIN,107
+California,Alhambra,2005/02/22,TMIN,101
+California,Alhambra,2000/04/16,TMIN,141
+California,Van Nuys,2008/01/12,TMIN,61
+California,Inglewood,2007/03/27,TMIN,146
+California,Glendale,2001/09/06,TMIN,129
+California,San Jose,2009/07/19,TMAX,31
+California,Alhambra,2006/09/15,TMAX,103
+California,San Francisco,2005/02/07,PRCP,71
+California,Bakersfield,2009/01/28,TMAX,138
+California,North Hollywood,2003/03/03,TMIN,102
+California,Sacramento,2009/04/24,TMAX,44
+California,San Diego,2008/07/28,TMIN,48
+California,Escondido,2001/08/09,PRCP,147
+California,Corona,2003/08/24,TMIN,149
+California,San Diego,2000/06/04,TMIN,108
+California,Berkeley,2000/07/13,TMAX,116
+California,San Bernardino,2003/02/26,PRCP,21
+California,Fresno,2006/10/16,PRCP,79
+California,Los Angeles,2007/01/26,PRCP,61
+California,Fresno,2009/07/25,PRCP,133
+California,Sacramento,2004/03/12,TMAX,135
+California,Visalia,2004/08/07,TMAX,134
+California,Corona,2000/12/14,PRCP,127
+California,Riverside,2001/11/09,PRCP,66
+California,Redwood City,2003/02/17,PRCP,120
+California,Torrance,2008/07/16,TMAX,117
+California,Sacramento,2008/08/01,PRCP,39
+California,Sacramento,2010/01/22,TMAX,23
+California,Inglewood,2002/02/19,TMIN,36
+California,Los Angeles,2008/04/02,TMIN,27
+California,San Francisco,2002/10/12,PRCP,72
+California,Sacramento,2009/01/14,PRCP,19
+California,San Francisco,2003/06/19,TMIN,95
+California,Fresno,2009/04/10,TMAX,58
+California,San Francisco,2004/03/01,TMAX,21
+California,Bakersfield,2001/12/29,TMAX,142
+California,Irvine,2004/05/23,TMIN,10
+California,Sacramento,2003/12/26,PRCP,73
+California,Richmond,2003/01/05,TMAX,84
+California,San Mateo,2000/09/14,PRCP,64
+California,San Diego,2004/01/13,TMAX,36
+California,Burbank,2010/01/09,TMAX,143
+California,Fresno,2003/10/13,PRCP,116
+California,Sacramento,2001/03/13,TMIN,125
+California,San Jose,2005/12/11,TMAX,39
+California,Escondido,2005/06/18,TMAX,137
+California,Whittier,2009/07/28,PRCP,12
+California,Fresno,2000/03/04,PRCP,144
+California,Bakersfield,2003/05/21,TMAX,29
+California,Northridge,2008/07/25,PRCP,146
+California,Anaheim,2000/07/30,TMIN,99
+California,Santa Barbara,2004/08/05,PRCP,52
+California,Simi Valley,2006/02/03,TMAX,83
+California,Berkeley,2008/01/28,TMAX,122
+California,Orange,2002/10/29,TMAX,138
+California,Bakersfield,2002/03/02,TMIN,127
+California,Santa Clara,2005/04/08,TMAX,99
+California,Los Angeles,2008/10/29,TMIN,117
+California,Corona,2003/03/03,TMIN,-1
+California,South Lake Tahoe,2005/03/15,PRCP,85
+California,Los Angeles,2006/02/07,TMIN,136
+California,Irvine,2008/12/14,TMAX,142
+California,Santa Monica,2004/10/06,TMAX,2
+California,Sacramento,2009/04/29,PRCP,60
+California,Stockton,2003/04/11,TMIN,44
+California,Santa Monica,2008/08/10,TMAX,74
+California,Los Angeles,2007/07/28,TMAX,20
+California,Fresno,2003/07/18,PRCP,101
+California,Los Angeles,2004/06/25,TMAX,28
+California,Fresno,2004/02/01,TMAX,141
+California,Sacramento,2001/12/12,TMAX,44
+California,Sacramento,2009/12/06,TMIN,6
+California,Palmdale,2001/03/12,PRCP,86
+California,South Lake Tahoe,2004/10/01,PRCP,149
+California,Pasadena,2006/12/21,TMIN,79
+California,Los Angeles,2000/05/29,TMAX,76
+California,Oakland,2001/08/06,PRCP,122
+California,Sacramento,2008/05/02,TMAX,57
+California,Oxnard,2008/12/11,PRCP,111
+California,Stockton,2005/02/22,TMIN,11
+California,Fresno,2005/01/20,PRCP,2
+California,San Francisco,2009/12/29,TMIN,62
+California,Los Angeles,2004/03/22,PRCP,9
+California,Sacramento,2006/12/07,TMIN,61
+California,Moreno Valley,2004/09/18,TMAX,31
+California,Long Beach,2008/06/01,TMAX,142
+California,Sacramento,2004/03/18,PRCP,81
+California,Fresno,2002/02/16,TMAX,88
+California,Sacramento,2008/01/11,TMAX,10
+California,Torrance,2003/11/16,PRCP,72
+California,San Francisco,2001/10/10,PRCP,8
+California,San Francisco,2001/11/23,TMAX,104
+California,Berkeley,2005/03/23,TMIN,126
+California,San Jose,2005/10/31,TMIN,33
+California,Sacramento,2005/04/16,TMIN,81
+California,San Rafael,2007/08/25,TMAX,59
+California,Anaheim,2005/10/26,TMIN,73
+California,Oakland,2006/11/12,TMAX,145
+California,Oakland,2005/09/04,TMAX,-6
+California,Los Angeles,2008/05/21,TMAX,140
+California,Visalia,2002/02/24,TMIN,48
+California,Escondido,2008/10/24,PRCP,124
+California,San Jose,2008/04/14,TMIN,123
+California,San Diego,2002/03/02,PRCP,137
+California,San Francisco,2006/07/27,PRCP,69
+California,Alhambra,2002/03/22,PRCP,116
+California,Los Angeles,2008/03/30,TMIN,91
+California,Fresno,2008/03/14,PRCP,38
+California,Sacramento,2007/02/11,TMIN,26
+California,San Jose,2004/10/19,TMAX,30
+California,San Francisco,2000/09/12,TMIN,109
+California,Orange,2000/08/07,TMIN,124
+California,San Diego,2004/10/05,PRCP,136
+California,North Hollywood,2008/10/02,TMIN,-9
+California,Sacramento,2008/02/26,TMAX,20
+California,Los Angeles,2003/03/05,TMAX,80
+California,Los Angeles,2006/12/20,TMAX,22
+California,Corona,2004/05/25,PRCP,2
+California,San Diego,2000/10/22,PRCP,111
+California,Sacramento,2002/03/09,TMIN,24
+California,Sacramento,2005/06/02,TMAX,79
+California,Oakland,2000/10/01,TMIN,48
+California,Irvine,2005/12/11,TMAX,11
+California,San Jose,2007/02/08,TMAX,136
+California,Los Angeles,2002/12/30,TMIN,106
+California,Visalia,2006/09/20,TMAX,84
+California,Santa Rosa,2006/02/24,TMAX,51
+California,Los Angeles,2003/09/05,TMIN,-6
